@@ -199,6 +199,32 @@ The patina of the belt should roughly match the patina of the shoes. Shiny shoes
 
 Hats are in flux. It's a personal decision.
 
+### **4.11 Fit and wear**
+
+Fit is a secondary variable in this protocol, but poor fit can undermine otherwise compliant clothing.
+
+**Fit guidance**
+- Comfort is the baseline requirement  
+- Extremely baggy clothing is discouraged  
+- Clothing should follow the body loosely without clinging  
+
+**Age and intention adjustments**
+- Younger men seeking partners may choose slightly more fitted silhouettes, which tend to read as more attractive  
+- Partnered men or men not optimizing for attraction should prioritize comfort while maintaining a clean silhouette  
+- The objective is to avoid looking shapeless, not to appear tailored to the millimeter  
+
+**Wear and aging**
+- Clothing does not need to look new  
+- Moderate wear can signal character and continuity  
+- Garments should be replaced before they become threadbare, misshapen, or visibly deteriorated  
+
+**Repair culture**
+- Tailors and seamstresses who can repair garments should be sought out and supported  
+- Repaired clothing is preferable to discarded clothing when structure and function remain intact  
+- Visible mending is acceptable if neat and intentional  
+
+Fit in this system supports the signal of adulthood. It should not become a separate hobby or aesthetic project.
+
 ------
 
 ## **5. Protocol**
