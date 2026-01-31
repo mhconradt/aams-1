@@ -27,9 +27,13 @@ The goal is not fashion performance, but clear, consistent signaling of adulthoo
 - **Protocol** maps clothing to context
 - **Grooming** and **Overdressing** define behavioral standards
 
-## Reference Implementations
+## Visual Reference
 
-See `visual-examples.md` for visual reference outfits by context.
+A companion visual guide with example outfits and garment references can be found here:
+
+**[Visual Examples →](visual-examples.md)**
+
+These examples illustrate how the protocol looks in practice across different **Operational Contexts** and garment categories.
 
 ## How to Use
 

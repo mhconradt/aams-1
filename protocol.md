@@ -6,6 +6,15 @@
 
 This document defines a default male clothing system. Personal style is optional and layered on top of this baseline.
 
+### Visual Companion
+
+This document defines the rules and structure of the system.  
+For practical examples of outfits, garments, and silhouettes, see:
+
+**[Visual Examples →](visual-examples.md)**
+
+The visual guide is illustrative, not prescriptive, and exists to clarify the intent of the protocol.
+
 ------
 
 ## **2. Operational Contexts**
